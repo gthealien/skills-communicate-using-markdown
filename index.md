@@ -3,3 +3,6 @@
 ```javascript
 var myVar = "Wibbly wobbly timey wimey stuff";
 ```
+- [X] Meet the doctor
+- [ ] Become best friends
+- [ ] Travel through space and time
